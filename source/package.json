@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel index.html",
-    "build": "parcel build index.html -d ../deploy --public-url /investry/ --no-source-maps"
+    "build": "parcel build index.html -d ../docs --public-url / --no-source-maps"
   },
   "author": "Martin Malý <maly@maly.cz>",
   "license": "MIT",
@@ -20,6 +20,7 @@
     "core-js": "^3.6.5",
     "jquery": "^3.5.1",
     "jquery-ui-dist": "^1.12.1",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
