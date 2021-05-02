@@ -2,7 +2,7 @@
 
 > Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
-MicroFORTH byl koncem 70. let intenzivně propagován a přitahoval velkou pozornost. Jedním z vedlejších efektů byl růst aktivní a nadšené skupiny nadšenců, kteří si Forth zamilovali. V jejich stopách se objevily nové společnosti uvádějící na trh verze jazyka Forth, které konkurovaly společnosti FORTH, Inc. Současně se Moore sám stále více věnoval hardwarovým implementacím jazyka Forth a méně se zapojoval do výroby softwaru ve společnosti FORTH, Inc. (kterou opustil v roce 1982, aby se mohl naplno věnovat hardwaru). V této části se budeme zabývat vývojem jazyka Forth pod těmito různými novými vlivy.
+MicroFORTH byl koncem 70. let intenzivně propagován a přitahoval velkou pozornost. Jedním z vedlejších efektů byl růst aktivní a zanícené skupiny nadšenců, kteří si Forth zamilovali. V jejich stopách se objevily nové společnosti uvádějící na trh verze jazyka Forth, které konkurovaly společnosti FORTH, Inc. Současně se Moore sám stále více věnoval hardwarovým implementacím jazyka Forth a méně se zapojoval do výroby softwaru ve společnosti FORTH, Inc. (kterou opustil v roce 1982, aby se mohl naplno věnovat hardwaru). V této části se budeme zabývat vývojem jazyka Forth pod těmito různými novými vlivy.
 
 ## 3.1 Forth Interest Group
 
