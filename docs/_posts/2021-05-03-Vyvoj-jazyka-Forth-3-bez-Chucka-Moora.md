@@ -92,7 +92,12 @@ První významnou snahou o standardizaci jazyka Forth bylo setkání v Utrechtu 
 ```
 DEA- EDI---
 
-I AM AFR--- THA- THE LET--- IN THE LAS- ISS-- ABO-- FOR-- INC-- USI-- ONL- THR-- LET--- NAM- FIE--- HAS HAD THE OPP----- EFF--- FRO- WHA- THE WRI--- WAN--. HIS LET--- ( LIK- THI- ONE ) SHO-- THA- SAV--- ONL- THR-- LET---- AND COU-- IS JUS- ABO-- OPT---- IN TER-- OF A TRA-- OFF BET---- SAV--- MEM--- AND KEE---- LEG----. WE STI-- DON- SEE THE NEE- FOR 31 CHA------ NAM-- IN THE GEN---- CAS-.
+I AM AFR--- THA- THE LET--- IN THE LAS- ISS-- ABO-- FOR-- INC-- USI-- ONL- 
+THR-- LET--- NAM- FIE--- HAS HAD THE OPP----- EFF--- FRO- WHA- THE WRI--- 
+WAN--. HIS LET--- ( LIK- THI- ONE ) SHO-- THA- SAV--- ONL- THR-- LET---- 
+AND COU-- IS JUS- ABO-- OPT---- IN TER-- OF A TRA-- OFF BET---- SAV--- 
+MEM--- AND KEE---- LEG----. WE STI-- DON- SEE THE NEE- FOR 31 CHA------ 
+NAM-- IN THE GEN---- CAS-.
 
 YOU-- TRU--
 
