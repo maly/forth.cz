@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Odkazy
-permalink: /linkcs/
+permalink: /links/
 ---
 
 # TBD
