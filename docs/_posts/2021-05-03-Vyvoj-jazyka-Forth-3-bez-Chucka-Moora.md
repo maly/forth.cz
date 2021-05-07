@@ -1,4 +1,8 @@
-# Vývoj jazyka Forth [3] - Forth bez Chucka Moora
+---
+title: Vývoj jazyka Forth [3] - Forth bez Chucka Moora
+author: Pavel Křivánek
+---
+
 
 > Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
