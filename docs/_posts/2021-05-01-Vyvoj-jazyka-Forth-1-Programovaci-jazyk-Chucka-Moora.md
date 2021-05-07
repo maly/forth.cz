@@ -1,4 +1,7 @@
-# Vývoj jazyka Forth [1] - Programovací jazyk Chucka Moora
+---
+title: Vývoj jazyka Forth [1] - Programovací jazyk Chucka Moora
+author: Pavel Křivánek
+---
 
 > Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
