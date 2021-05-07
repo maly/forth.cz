@@ -3,9 +3,10 @@ title: Vývoj jazyka Forth [2] - Vývoj a šíření
 author: Pavel Křivánek
 ---
 
-> Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
 Na počátku 70. let dosáhl Forth takové úrovně vyspělosti, která nejenže umožnila jeho použití ve významných aplikacích, ale také přitáhla pozornost dalších programátorů a organizací. V reakci na jejich potřeby jej Moore implementoval na více počítačů a přizpůsoboval jej tak, aby zvládal stále větší třídy aplikací.
+
+> Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
 ## 2.1 Forth v NRAO
 

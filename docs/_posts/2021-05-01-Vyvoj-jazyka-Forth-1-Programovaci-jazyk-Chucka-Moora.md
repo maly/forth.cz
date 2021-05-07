@@ -3,13 +3,12 @@ title: Vývoj jazyka Forth [1] - Programovací jazyk Chucka Moora
 author: Pavel Křivánek
 ---
 
-> Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
-
-
 ## Abstrakt
 Jazyk Forth je mezi programovacími jazyky jedinečný tím, že jeho vývoj a šíření probíhal zdola a nebyl podporován žádnými významnými firemními ani akademickými sponzory. Původně byl koncipován a vyvíjen jediným člověkem, později jeho vývoj postupoval pod dvěma významnými vlivy: profesionálními programátory, kteří vyvíjeli nástroje pro řešení aplikačních problémů a následně je komercionalizovali, a zájmy amatérů, kteří se zabývali volným šířením jazyka Forth. Díky těmto vlivům vznikl jazyk, který se výrazně liší od tradičních programovacích jazyků.
 
 Předneseno na konferenci ACM SIGPLAN History of Programming Languages (HOPL II, duben 1993). Publikováno v ACM SIGPLAN Notices, Volume 28, No. 3, March 1993. Povolení kopírovat bez poplatku celý tento materiál nebo jeho část je uděleno za předpokladu, že kopie nebudou pořízeny nebo šířeny za účelem přímého komerčního prospěchu, bude uvedeno upozornění ACM o autorských právech a název publikace a její datum a bude uvedeno, že kopírování je povoleno Association for Computing Machinery. Jiné kopírování nebo další publikování vyžaduje poplatek a/nebo zvláštní povolení.
+
+> Tato série příspěvků vzniká jako překlad obsáhlého článku [The Evolution of Forth](https://www.forth.com/resources/forth-programming-language/)
 
 ## Autoři článku
 
